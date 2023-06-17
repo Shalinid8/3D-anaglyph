@@ -12,4 +12,4 @@ To run this project, ensure you have the following:
 	Before running the code, please install the required dependencies by running the following command:
 
 	!pip install rembg Pillow opencv-python numpy matplotlib
-![image](https://github.com/Shalinid8/3D-anaglyph/assets/104601001/57c7f084-2e9f-42c4-a64e-0e9b2e7d7be8)
+
